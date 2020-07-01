@@ -4,3 +4,6 @@ DQL:
 The commands to retrieve values are called DQL
 
 DDL: wordt gebruikt om de data te manipuleren.
+
+DML:
+Data manipulatie language om data in te voeren, wijzigen en te lezen.
