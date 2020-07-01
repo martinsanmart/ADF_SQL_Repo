@@ -2,3 +2,5 @@ SQL Statements:
 
 DQL:
 The commands to retrieve values are called DQL
+
+DDL: wordt gebruikt om de data te manipuleren.
