@@ -1,9 +1,9 @@
 SQL Statements: 
 
-DQL:
-The commands to retrieve values are called DQL
+SQL:
+The commands to retrieve values are called SQL
 
-DDL: wordt gebruikt om de data te manipuleren.
+DDL: is being used to define object in a rdbms.
 
 DML:
-Data manipulatie language om data in te voeren, wijzigen en te lezen.
+Data manipulation language is used to change, delete or insert data.
